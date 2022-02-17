@@ -6,3 +6,9 @@
     width: 400px;
     color: darkblue;
 }
+
+@media (min-width: 500px){
+    .Person{
+        width: 300px;
+    }
+}
